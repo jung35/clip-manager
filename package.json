@@ -1,0 +1,19 @@
+{
+  "name": "clip-manager",
+  "version": "0.0.1",
+  "main": "src/main.js",
+  "repository": "git@github.com:jung35/clip-manager.git",
+  "author": "Jung Oh",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^4.1.0",
+    "electron-reload": "^1.4.0",
+    "eslint": "^5.15.2",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
+}
